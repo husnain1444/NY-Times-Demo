@@ -13,3 +13,5 @@ distributionUrl=https\://services.gradle.org/distributions/gradle-6.5-bin.zip
 Date Source: https://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/7.json?api-key=ZOuA7mZDpoIqZJY1jWcIieIDQ5L0CmKL
 
 Clone and Run
+
+![](/app/src/main/res/drawable/demo.jpeg)
